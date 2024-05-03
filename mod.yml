@@ -1,0 +1,270 @@
+title: No mickey
+originalAuthor: LMR
+game: Kh2
+description: no mickey pro code for KH2 pro codes
+logo: icon.png
+assets:
+  - name: msn/fr/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/fr_BB11_MS102.bar
+  - name: msn/gr/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/gr_BB11_MS102.bar
+  - name: msn/it/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/it_BB11_MS102.bar
+  - name: msn/sp/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/sp_BB11_MS102.bar
+  - name: msn/us/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/us_BB11_MS102.bar
+  - name: msn/fr/HE07_MS103.bar
+    method: copy
+    source:
+      - name: mickey/fr_HE07_MS103.bar
+  - name: msn/sp/HE07_MS103.bar
+    method: copy
+    source:
+      - name: mickey/sp_HE07_MS103.bar
+  - name: msn/gr/HE07_MS103.bar
+    method: copy
+    source:
+      - name: mickey/gr_HE07_MS103.bar
+  - name: msn/it/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/it_BB11_MS102.bar
+  - name: msn/us/HE07_MS103.bar
+    method: copy
+    source:
+      - name: mickey/us_HE07_MS103.bar
+  - name: msn/fr/MU09_MS108.bar
+    method: copy
+    source:
+      - name: mickey/fr_MU09_MS108.bar
+  - name: msn/gr/MU09_MS108.bar
+    method: copy
+    source:
+      - name: mickey/gr_MU09_MS108.bar
+  - name: msn/it/MU09_MS108.bar
+    method: copy
+    source:
+      - name: mickey/it_MU09_MS108.bar
+  - name: msn/sp/MU09_MS108.bar
+    method: copy
+    source:
+      - name: mickey/sp_MU09_MS108.bar
+  - name: msn/us/MU09_MS108.bar
+    method: copy
+    source:
+      - name: mickey/us_MU09_MS108.bar
+  - name: msn/fr/BB05_MS104A.bar
+    method: copy
+    source:
+      - name: mickey/fr_BB05_MS104A.bar
+  - name: msn/gr/BB05_MS104A.bar
+    method: copy
+    source:
+      - name: mickey/gr_BB05_MS104A.bar
+  - name: msn/it/BB05_MS104A.bar
+    method: copy
+    source:
+      - name: mickey/it_BB05_MS104A.bar
+  - name: msn/sp/BB05_MS104A.bar
+    method: copy
+    source:
+      - name: mickey/sp_BB05_MS104A.bar
+  - name: msn/us/BB05_MS104A.bar
+    method: copy
+    source:
+      - name: mickey/us_BB05_MS104A.bar
+  - name: msn/fr/BB05_MS104B.bar
+    method: copy
+    source:
+      - name: mickey/fr_BB05_MS104B.bar
+  - name: msn/gr/BB05_MS104B.bar
+    method: copy
+    source:
+      - name: mickey/gr_BB05_MS104B.bar
+  - name: msn/it/BB05_MS104B.bar
+    method: copy
+    source:
+      - name: mickey/it_BB05_MS104B.bar
+  - name: msn/sp/BB05_MS104B.bar
+    method: copy
+    source:
+      - name: mickey/sp_BB05_MS104B.bar
+  - name: msn/us/BB05_MS104B.bar
+    method: copy
+    source:
+      - name: mickey/us_BB05_MS104B.bar
+  - name: msn/fr/HE18_MS108.bar
+    method: copy
+    source:
+      - name: mickey/fr_HE18_MS108.bar
+  - name: msn/gr/HE18_MS108.bar
+    method: copy
+    source:
+      - name: mickey/gr_HE18_MS108.bar
+  - name: msn/it/HE18_MS108.bar
+    method: copy
+    source:
+      - name: mickey/it_HE18_MS108.bar
+  - name: msn/sp/HE18_MS108.bar
+    method: copy
+    source:
+      - name: mickey/sp_HE18_MS108.bar
+  - name: msn/us/HE18_MS108.bar
+    method: copy
+    source:
+      - name: mickey/us_HE18_MS108.bar
+  - name: msn/fr/AL03_MS103.bar
+    method: copy
+    source:
+      - name: mickey/fr_AL03_MS103.bar
+  - name: msn/gr/AL03_MS103.bar
+    method: copy
+    source:
+      - name: mickey/gr_AL03_MS103.bar
+  - name: msn/it/AL03_MS103.bar
+    method: copy
+    source:
+      - name: mickey/it_AL03_MS103.bar
+  - name: msn/sp/AL03_MS103.bar
+    method: copy
+    source:
+      - name: mickey/sp_AL03_MS103.bar
+  - name: msn/us/AL03_MS103.bar
+    method: copy
+    source:
+      - name: mickey/us_AL03_MS103.bar
+  - name: msn/fr/MU08_MS204.bar
+    method: copy
+    source:
+      - name: mickey/fr_MU08_MS204.bar
+  - name: msn/gr/MU08_MS204.bar
+    method: copy
+    source:
+      - name: mickey/gr_MU08_MS204.bar
+  - name: msn/it/MU08_MS204.bar
+    method: copy
+    source:
+      - name: mickey/it_MU08_MS204.bar
+  - name: msn/sp/MU08_MS204.bar
+    method: copy
+    source:
+      - name: mickey/sp_MU08_MS204.bar
+  - name: msn/us/MU08_MS204.bar
+    method: copy
+    source:
+      - name: mickey/us_MU08_MS204.bar
+  - name: msn/fr/BB15_MS203.bar
+    method: copy
+    source:
+      - name: mickey/fr_BB15_MS203.bar
+  - name: msn/gr/BB15_MS203.bar
+    method: copy
+    source:
+      - name: mickey/gr_BB15_MS203.bar
+  - name: msn/it/BB15_MS203.bar
+    method: copy
+    source:
+      - name: mickey/it_BB15_MS203.bar
+  - name: msn/sp/BB15_MS203.bar
+    method: copy
+    source:
+      - name: mickey/sp_BB15_MS203.bar
+  - name: msn/us/BB15_MS203.bar
+    method: copy
+    source:
+      - name: mickey/us_BB15_MS203.bar
+  - name: msn/fr/CA18_MS202.bar
+    method: copy
+    source:
+      - name: mickey/fr_CA18_MS202.bar
+  - name: msn/gr/CA18_MS202.bar
+    method: copy
+    source:
+      - name: mickey/gr_CA18_MS202.bar
+  - name: msn/it/CA18_MS202.bar
+    method: copy
+    source:
+      - name: mickey/it_CA18_MS202.bar
+  - name: msn/sp/CA18_MS202.bar
+    method: copy
+    source:
+      - name: mickey/sp_CA18_MS202.bar
+  - name: msn/us/CA18_MS202.bar
+    method: copy
+    source:
+      - name: mickey/us_CA18_MS202.bar
+  - name: msn/fr/EH24_MS110.bar
+    method: copy
+    source:
+      - name: mickey/fr_EH24_MS110.bar
+  - name: msn/gr/EH24_MS110.bar
+    method: copy
+    source:
+      - name: mickey/gr_EH24_MS110.bar
+  - name: msn/it/EH24_MS110.bar
+    method: copy
+    source:
+      - name: mickey/it_EH24_MS110.bar
+  - name: msn/sp/EH24_MS110.bar
+    method: copy
+    source:
+      - name: mickey/sp_EH24_MS110.bar
+  - name: msn/us/EH24_MS110.bar
+    method: copy
+    source:
+      - name: mickey/us_EH24_MS110.bar
+  - name: msn/jp/AL03_MS103.bar
+    method: copy
+    source:
+      - name: mickey/jp_AL03_MS103.bar
+  - name: msn/jp/BB05_MS104A.bar
+    method: copy
+    source:
+      - name: mickey/jp_BB05_MS104A.bar
+  - name: msn/jp/BB05_MS104B.bar
+    method: copy
+    source:
+      - name: mickey/jp_BB05_MS104B.bar
+  - name: msn/jp/BB11_MS102.bar
+    method: copy
+    source:
+      - name: mickey/jp_BB11_MS102.bar
+  - name: msn/jp/BB15_MS203.bar
+    method: copy
+    source:
+      - name: mickey/jp_BB15_MS203.bar
+  - name: msn/jp/CA18_MS202.bar
+    method: copy
+    source:
+      - name: mickey/jp_CA18_MS202.bar
+  - name: msn/jp/EH24_MS110.bar
+    method: copy
+    source:
+      - name: mickey/jp_EH24_MS110.bar
+  - name: msn/jp/HE07_MS103.bar
+    method: copy
+    source:
+      - name: mickey/jp_HE07_MS103.bar
+  - name: msn/jp/HE18_MS108.bar
+    method: copy
+    source:
+      - name: mickey/jp_HE18_MS108.bar
+  - name: msn/jp/MU08_MS204.bar
+    method: copy
+    source:
+      - name: mickey/jp_MU08_MS204.bar
+  - name: msn/jp/MU09_MS108.bar
+    method: copy
+    source:
+      - name: mickey/jp_MU09_MS108.bar
